@@ -23,7 +23,7 @@ DATA_FILE = "server_data.json"
 MOVE_COOLDOWN = 3.0 #คูลดาวน์การย้าย
 
 ALLOWED_GUILD_IDS = {1480911066224529529} #ไอดีเซิฟ discord
-OWNER_USER_IDS = {904046392106967122} #ไอดีเจ้าของ
+OWNER_USER_IDS = {922783010401681418} #ไอดีเจ้าของ
 
 server_data = {}  
 game_state = {}   
